@@ -1,0 +1,14 @@
+[
+   {
+      "title":"logo path",
+      "variableName":"logo_path",
+      "inputFieldHeight":22,
+      "exampleText":"240x240"
+   },
+   {
+      "title":"disqus",
+      "variableName":"disqus_shortname",
+      "inputFieldHeight":22,
+      "exampleText":"disqus shortname"
+   }
+]
